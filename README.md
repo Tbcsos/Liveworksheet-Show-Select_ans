@@ -44,3 +44,5 @@ i = 0x0, x = 0x0, selc = '';
 ```
 2. paste This Code console.
 This code show only answers in selects!!.
+
+by bossgeeg123456
