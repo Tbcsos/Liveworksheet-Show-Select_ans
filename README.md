@@ -45,4 +45,6 @@ i = 0x0, x = 0x0, selc = '';
 2. paste This Code console.
 This code show only answers in selects!!.
 
+# Screenshot 
+![screenshot](https://raw.githubusercontent.com/BoszGTec/Liveworksheet-Show-Select_ans/main/image/Screenshot.png)
 by bossgeeg123456
