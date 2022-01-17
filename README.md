@@ -1,6 +1,6 @@
 # Liveworksheet-Show-Select_ans
-[Sample Worksheet](https://www.liveworksheets.com/5-ii117611en)
-1. Copy This Code. 
+[En](https://github.com/BoszGTec/Liveworksheet-Show-Select_ans/blob/main/README_EN.md) | [Sample Worksheet](https://www.liveworksheets.com/5-ii117611en)
+1. ก๊อปโค้ด. 
 ``` js
   var _0x3c7a39 = _0x51d0;
 (function(_0x3001ce, _0x212496) {
@@ -42,8 +42,8 @@ function _0x7de0() {
 }
 i = 0x0, x = 0x0, selc = '';
 ```
-2. paste This Code console.
-This code show only answers in selects!!.
+2. วางโค้ดที่console 
+(จะโชว์เฉพาะคำตอบที่เป็นช่องให้เลือก)
 
 # Screenshot 
 ![screenshot](https://raw.githubusercontent.com/BoszGTec/Liveworksheet-Show-Select_ans/main/image/Screenshot.png)
