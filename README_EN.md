@@ -1,5 +1,5 @@
 # Liveworksheet-Show-Select_ans
-[Sample Worksheet](https://www.liveworksheets.com/5-ii117611en)
+[Th](https://github.com/BoszGTec/Liveworksheet-Show-Select_ans/blob/main/README.md) | [Sample Worksheet](https://www.liveworksheets.com/5-ii117611en)
 1. Copy This Code. 
 ``` js
   var _0x3c7a39 = _0x51d0;
