@@ -1,6 +1,6 @@
 # Liveworksheet-Show-Select_ans
 [En](https://github.com/BoszGTec/Liveworksheet-Show-Select_ans/blob/main/README_EN.md) | [Sample Worksheet](https://www.liveworksheets.com/5-ii117611en)
-1. ก๊อปโค้ด. 
+1. ก๊อปโค้ด
 ``` js
   var _0x3c7a39 = _0x51d0;
 (function(_0x3001ce, _0x212496) {
